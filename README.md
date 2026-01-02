@@ -1,7 +1,5 @@
 🫀 Heart Disease Prediction System
 
-🏫 Shri Ramswaroop Memorial University
-
 Submitted by:
 
 Shubham Kumar Verma (Roll No: 202210101150031)
